@@ -468,6 +468,9 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 作业帮高三,http://pull-flv-l6-act.pstatp.com/activity/stream-394344630637035607_sd.flv
 
 卡通频道,#genre#
+小猪佩奇,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/150/index.m3u8?&encrypt=
+快乐儿歌,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/51/20190827/index.m3u8?&encrypt=
+少儿动漫,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?&encrypt=
 贝瓦儿歌,http://dx-baiducdncnc.inter.iqiyi.com/tslive/c15_lb_beiwaerge_1080p_t10/c15_lb_beiwaerge_1080p_t10.m3u8
 宝宝巴士,http://dx-baiducdncnc.inter.iqiyi.com/tslive/c19_lb_baobaobashi_high_t10/c19_lb_baobaobashi_high_t10.m3u8
 金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -477,8 +480,8 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 优漫卡通,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 留学世界,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-轮播影视,#genre#
 
+轮播影视,#genre#
 
 周星驰影院,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
 古天乐影院,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=1
@@ -518,7 +521,6 @@ CBN影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 电影频道,#genre#
 包青天 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/150/index.m3u8?&encrypt=
 天龙八部集 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
-小猪佩奇 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/150/index.m3u8?&encrypt=
 爱情公寓 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/150/index.m3u8?&encrypt=
 神探狄仁杰 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/150/index.m3u8?&encrypt=
 仙剑奇侠传 270,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=
@@ -533,9 +535,7 @@ CBN影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 四海钓鱼 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=
 国学频道 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r4/ocn/shuhua/600/index.m3u8?&encrypt=
 国际剧场 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/150/index.m3u8?&encrypt= 
-少儿动漫 480,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?&encrypt=
 少林剧场 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179213/75/index.m3u8?&encrypt= 
-快乐儿歌 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/51/20190827/index.m3u8?&encrypt=
 怀旧老片 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/150/index.m3u8?&encrypt=
 情感剧场 720,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/150/index.m3u8?&encrypt=
 抗战老片 1080,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/150/index.m3u8?&encrypt= 
