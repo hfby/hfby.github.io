@@ -998,6 +998,37 @@ CBN影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 电影-老炮说电影,http://al.hls.huya.com/backsrc/1417610710-1417610710-6088591637909340160-4501704936-10057-A-0-1.m3u8
 
 
+娱乐频道_2022,#genre#
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://cdn.adultiptv.net/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视4欧美版,http://cdn.adultiptv.net/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+潘多拉欧美版,http://cdn.adultiptv.net/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K频道欧美版,http://cdn.adultiptv.net/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+惊艳台欧美版,http://cdn.adultiptv.net/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+粉红台欧美版,http://cdn.adultiptv.net/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+玩美台欧美版,http://cdn.adultiptv.net/pov.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+一本道欧美版,http://cdn.adultiptv.net/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
+樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
+樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
+
+
+
 音乐欣赏,#genre#
 女团来了,http://1009.jilu8.cn/yk.php?id=nvtuan
 毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
